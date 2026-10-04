@@ -1,4 +1,4 @@
-[English](README.md) · [简体中文](README.zh-CN.md)
+[English](README_EN.md) · [简体中文](README.md)
 
 <p align="center">
   <img src="Resources/app_icon.png" width="128" height="128" alt="CellDock icon">
